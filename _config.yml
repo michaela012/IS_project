@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Michaela's HCI blog
+title: Digital Humanities Independent Study
 
 # Short description of your site
-description: Content and assignments from HCI, fall 2019. 
+description: Independent study project notes
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -38,15 +38,15 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2d3821"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#F5F5F5"
-page-col: "#f5ffeb"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#2d3821"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+#navbar-col: "#2d3821"
+#navbar-text-col: "#FFFFFF"
+#navbar-children-col: "#F5F5F5"
+#page-col: "#f5ffeb"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#footer-col: "#2d3821"
+#footer-text-col: "#FFFFFF"
+#footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
