@@ -35,7 +35,7 @@ When you hear 'sepia' you might not think 'special', but I had great fun with th
 
 Thanks to Andy Barefoot's [Medium post](https://medium.com/@andybarefoot/d3-and-css-grid-with-expanding-content-3c8aaf783cb1) for a tutorial on D3 grid basics. 
 
-### reflections
+## reflections
 Overall, I'm pretty pleased with how this turned out, and I'm happy with this as a first attempt at info vis and the d3 library, not to mention my first real go at html and css. That said, there are two main things that are really bothering me about the main (graph) color pages, and that hopefully I'll be able to fix in the future: the lack of dynamic sizing and the fact that the graph is fully expanded when the page loads. 
 
 The former is an issue on any screen that differs from the size of my laptop. The second matters on the larger color categories, but not the smaller ones. It's troubling. For the annoying (and sometimes amusing) issues that I *did* manage to fix, see my next post!
