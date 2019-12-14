@@ -27,10 +27,16 @@ The color pages are the most fun, and of course, these are the heart of the visu
 Credit and thanks to the work of ![Mike Bostock](https://bl.ocks.org/mbostock/1062288), ![Sundar Singh](https://bl.ocks.org/eesur), and ![Paul Brady](https://bl.ocks.org/Paul-Brady) --a combination of these works formed the starter code for this portion of the project.
  
 ## special sepia layout
-When you hear 'sepia' you might not think 'special', but I had great fun with this portion of the project layout. Even after severely limiting the constraints for sepia classification, there was still an overabundance of pieces (for details on the classification process for this color range, read the overview page shown above). There were too many images for a graph, so I opted for a grid layout instead. The header contains the nav links, and detailed piece information is shown when the user hovers over each image. 
+When you hear 'sepia' you might not think 'special', but I had great fun with this portion of the project layout. Even after severely limiting the constraints for sepia classification, there was still an overabundance of pieces (for details on the classification process for this color range, read the overview page shown above). There were too many images for a graph, so I opted for a grid layout instead-- and note the size of the scroll bar! The header contains the nav links, and detailed piece information is shown when the user hovers over each image. 
 
 ![](/is-project/img/sepia_open.png)
 ![](/is-project/img/sepia_expanded.png)
 ![](/is-project/img/sepia_scrolled.png)
 
 Thanks to Andy Barefoot's [Medium post](https://medium.com/@andybarefoot/d3-and-css-grid-with-expanding-content-3c8aaf783cb1) for a tutorial on D3 grid basics. 
+
+### reflections
+Overall, I'm pretty pleased with how this turned out, and I'm happy with this as a first attempt at info vis and the d3 library, not to mention my first real go at html and css. That said, there are two main things that are really bothering me about the main (graph) color pages, and that hopefully I'll be able to fix in the future: the lack of dynamic sizing and the fact that the graph is fully expanded when the page loads. 
+
+The former is an issue on any screen that differs from the size of my laptop. The second matters on the larger color categories, but not the smaller ones. It's troubling. For the annoying (and sometimes amusing) issues that I *did* manage to fix, see my next post!
+
