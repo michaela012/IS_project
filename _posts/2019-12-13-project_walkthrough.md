@@ -19,7 +19,7 @@ The first page shown here is the overview page, which is linked to from the home
 The color pages are the most fun, and of course, these are the heart of the visualization. Each color category is subdivided into two components: light and dark images. Clicking the 'light', 'dark', or color tag (central node) toggles the visibility of the component and makes the color selection menu visible. Some examples at different stages and sizes:
 
 ![](/is-project/img/purple-open.png)
-![](is-project/img/purple_banana.png)
+![](/is-project/img/purple_banana.png)
 ![](/is-project/img/cyan_menu.png)
 ![](/is-project/img/cyan_landscape.png)
 ![](/is-project/img/black-dark.png)
