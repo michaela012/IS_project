@@ -12,8 +12,8 @@ We start with this, the main homepage. It links to all available color families,
 
 ## informational pages
 The first page shown here is the overview page, which is linked to from the homepage. The overview page has several supplementary links, including the second page shown here. This 'notes' page gives more information on the information available for each image, as well as a brief description on how the image classification was handled. 
-![](/is-project/overview.png)
-![](/is-project/notes.png)
+![](/is-project/img/overview.png)
+![](/is-project/img/notes.png)
 
 ## main color pages
 The color pages are the most fun, and of course, these are the heart of the visualization. Each color category is subdivided into two components: light and dark images. Clicking the 'light', 'dark', or color tag (central node) toggles the visibility of the component and makes the color selection menu visible. Some examples at different stages and sizes:
